@@ -172,4 +172,9 @@ pytest tests/ -v
 
 ## 📄 License
 
-MIT License
+**Proposed dual-licensing setup (pending rights and third-party materials review):**
+
+- **Community:** GNU Affero General Public License v3.0 only (AGPL-3.0-only). See [LICENSE](./LICENSE) and [LICENSING.md](./LICENSING.md).
+- **Commercial:** A separate commercial agreement may be discussed for code the copyright holder owns or is authorized to license. Contact **Sagar Kapoor** at **sagar16kapoor@gmail.com**. See [COMMERCIAL-LICENSE.md](./COMMERCIAL-LICENSE.md) for a draft template.
+
+This proposed change is not yet a verified grant of rights. Third-party dependencies, datasets, NVIDIA reports/data, trademarks, and other assets remain subject to their own terms. AGPL use does not automatically require a paid commercial license. Do not treat the commercial template as an executed agreement.
